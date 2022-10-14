@@ -1,0 +1,73 @@
+push = LEVA todas as atualizações de um repositório
+pull = TRÁS todas as atualizações de um repositório
+clone = clonar repositório de outras pessoas na sua máquina
+issues = recomendações que pode fazer no repositório de outras pessoas. 
+
+Branch = Ramificações 
+  • Origin é o repositório remoto  Master é o ramo •principal(evitar commitar tudo na branch master)
+  •Merge é a junção da branch com o Master
+    
+
+
+# Markdown
+(Usado em issues, arquivos .md e etc)
+
+
+TITULO
+Para fazer um TITULO h1 basta colocar #(Necessário ter espaço após #)
+Para fazer um TITULO h2 basta colocar ##(Necessário ter espaço após ##)
+Para fazer um TITULO h3 basta colocar ###(Necessário ter espaço após ###)
+
+Para fazer uma linha (quebra de linha) *** ou ---
+
+
+COMENTÁRIOS
+Para fazer um comentário em Negrito basta colocar ** ou __
+Para fazer um comentário em Italico basta colocar * ou _
+Para fazer um comentário Riscado basta colocar ~~
+(Pode misturar configurações " _*Markdown*_ " , saindo em negrito e italico ao mesmo tempo)
+
+
+LISTAS
+Lista Numerada - Número e ponto (1.) e para subitens colocae 3 espaços 
+Lista Demarcada - Lista com marcadores (* ou -) e para subitens colocae 3 espaços 
+Lista de Tarefas - Cria uma lista de tarefas no README:
+ - [ ] Tarefa 1 
+ - [x] Tarefa 1 (Para quando completar a tarefa)
+
+
+IMAGENS
+Para colocar imagens (no maximo 400px) só selecionar e arrastar para "Attach files by dragging & dropping, selecting or pasting them." Tudo que estiver entre [] é a descrição da imagem.
+
+
+LINKS
+Mesma função da imagens mas sem o ( ! )
+[Acesse meu GitHub](https://lucaslfusco.github.io)
+
+
+TABELAS
+Num | Nome | Nota
+---|---|---
+1 | Arlindo | 10,0
+2 | Josefino | 7,0
+3 | Lobisomenpidao | 3,0
+
+
+COMANDO
+Se colocar o comando entre crase (` `) ele coloca um fundo cinza e letra semelhante ao comando
+
+
+TRECHOS DE COMANDO
+Se colocar o comando entre 3 crase (```) ele coloca um fundo cinza e letra semelhante ao comando
+
+
+EMOJIS
+Para usar emojis basta colocar (:"nome do emoji")
+Tem um repositório clonado sobre todos os emojis https://github.com/ikatyang/emoji-cheat-sheet
+Tambem o site https://emojipedia.org/ (usado nas issues) caso não encontre.
+
+
+CITAÇÕES 
+Basta apenas usar o @.
+
+

@@ -1,0 +1,3 @@
+#1 Instalar VsCode - Salvamento automático, extenções = pesquisar (Português),  Preferencias = configurações = Word Wrap (on).
+#2 Instalar Git.
+#3 Instalar GitHub Desktop.
