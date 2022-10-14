@@ -1,4 +1,4 @@
-# Curso de Git e GitHub do professor Guanabara
+# Curso de Git e GitHub do Professor Guanabara
 
 ***
 
